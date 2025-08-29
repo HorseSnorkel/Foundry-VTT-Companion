@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoundryVTT Companion</string>
+    <string name="connect">Connect</string>
+    <string name="server_url">Server URL</string>
+    <string name="world">World</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="token">API Token</string>
+    <string name="mode_hybrid">Hybrid (Recommended)</string>
+    <string name="mode_webview">WebView</string>
+    <string name="mode_native">Native (Experimental)</string>
+    <string name="chat">Chat</string>
+    <string name="sheet">Sheet</string>
+    <string name="settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
